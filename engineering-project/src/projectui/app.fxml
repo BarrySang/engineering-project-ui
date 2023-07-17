@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Button?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="projectui.Controller" stylesheets="@styles.css">
+
+    <children>
+        <VBox fx:id="titleVBox">
+            <Label fx:id="titleLabel"/>
+        </VBox>
+        <VBox fx:id="sectionVBox" >
+
+            <children>
+                <HBox fx:id="activityHBox" >
+
+                    <children>
+                        <Label fx:id="activityLabel" />
+                        <ChoiceBox fx:id="activityInput" />
+                    </children>
+                </HBox>
+                <HBox fx:id="numberPeopleHBox" >
+                
+                    <children>
+                            <Label fx:id="numberPeopleLabel" />
+                            <TextField fx:id="numberPeopleInput" />
+                    </children>
+                </HBox>
+
+                <Button fx:id="changeSpeedBtn" />
+            </children>
+        </VBox>
+    </children>
+</VBox>

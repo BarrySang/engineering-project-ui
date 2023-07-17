@@ -1,0 +1,74 @@
+CorrectionalFacilities,15
+Guardstations,11
+Booking, waiting,8
+Day care through age,5
+Day care sick room,7
+Class rooms ages,14
+Class rooms age plus,9
+Lecture class room H,8
+Educational Facilities,13
+Lecturehall fixedseats,5
+Art class room,13
+Science laboratories,12
+University college,12
+laboratories,5
+Wood metal shop,8
+Computer lab,12
+Mediacenter A,5
+Musictheater dance H,9
+Multiuseassembly H,10
+Restaurant dining rooms,8
+Foodand Beverage Service,8
+Cafeteria fast food dining,5
+Bars cocktail lounges,9
+Kitchencooking,11
+General,5
+Breakrooms,6
+Hotels Motels Resorts Dormitories,10
+Bedroom living room H,11
+Barracks sleepingareasH,9
+Laundry rooms central,5
+Laundry rooms within,5
+dwelling units,13
+Lobbiesp refunctionH,10
+Multipurpose assemblyH,9
+Breakrooms,13
+Mainentry lobbies,10
+Occupiable storagerooms,14
+for dry materials,7
+Office spaceH,7
+Reception areasH,13
+Telephone data entryH,15
+Bank vaults safedepositH,15
+Banks or banklobbiesH,6
+Computer not printingH,8
+Office Buildings,10
+MiscellaneousSpaces,12
+Sortingpackinglight,13
+assembly,6
+Telephone closets Transportation waiting H Warehouses B Auditorium seating areaH,7
+Places ofreligious worshipH,10
+CourtroomsH,13
+Legislative chambersH,9
+Libraries,12
+Lobbies,6
+Museums childrens,5
+Museums galleriesH,13
+Dwelling unit FGHF Common corridorsH,5
+Public Assembly Spaces,9
+Residential,6
+Mall common areasH,15
+BarbershopH,6
+Beauty and nailsalons,7
+Petshops animal areas,14
+Supermarket Coinoperated laundries Gym sports arena,11
+playarea Spectator areas Swimming pool deck,12
+Retail,7
+Sports and Entertainment,10
+Discodance floors,6
+Health club aerobics room,10
+Health club weight rooms,6
+Bowling alley seating,10
+Gambling casinos,7
+Game arcades,13
+Stages studios,8
